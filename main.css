@@ -1,0 +1,15 @@
+#to{
+    width: 100%;
+    background: rgb(241, 241, 241);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#form{
+    width: 400px;
+    height:350px;
+    background-image: linear-gradient(to right,#813afc,rgb(0, 106, 255));
+    border-radius: 12px;
+    border: 2px solid black;
+}
